@@ -55,7 +55,7 @@
 ## Пример использования
 1. Ввод данных согласно выходу мяса на предприятии
    
-  ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/97e2b6a3-8724-42a8-8e2a-5fa1bffb4850)
+   ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/97e2b6a3-8724-42a8-8e2a-5fa1bffb4850)
    
 2. Нажатие кнопки Расчитать
 
