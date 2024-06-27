@@ -12,7 +12,8 @@
 
 
 
-![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/7257273e-d742-488e-b9f9-086e822ee796)
+![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/63ac344f-7138-41a2-b091-2b9004bdfe87)
+
 
 
 ---
@@ -54,15 +55,15 @@
 ## Пример использования
 1. Ввод данных согласно выходу мяса на предприятии
    
-   ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/c28a7f7f-bafd-458d-bbcb-0ee7351a8d3c)
+  ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/97e2b6a3-8724-42a8-8e2a-5fa1bffb4850)
    
-2. Нажатие кнопки Рассчитать
+2. Нажатие кнопки Расчитать
 
-   ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/803cf952-b896-4c56-b116-b9d1a7c96d43)
+   ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/23315368-247a-4d08-b94c-c56f016bedf0)
 
 4. Получение данных по выходу колбас
 
-    ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/b333a451-466a-4c27-8cd2-88c0dbeaf089)
+    ![image](https://github.com/Digital-Department-Vavilov-University/mat-balance-sausage/assets/135830345/031c3ae2-ea2a-400d-8de0-93b6d083cf01)
    
 ---   
 
