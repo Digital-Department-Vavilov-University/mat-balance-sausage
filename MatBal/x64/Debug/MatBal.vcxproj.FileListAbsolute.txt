@@ -1,0 +1,6 @@
+C:\Users\2ponc\Desktop\Zifra\Project\MatBal\MatBal\x64\Debug\MatBal.vcxproj.AssemblyReference.cache
+C:\Users\2ponc\Desktop\Zifra\Project\MatBal\MatBal\x64\Debug\MatBal.MyForm.resources
+C:\Users\2ponc\Desktop\Zifra\Project\MatBal\MatBal\x64\Debug\MatBal.vcxproj.GenerateResource.cache
+C:\Users\bacar\Desktop\MatBal\MatBal\x64\Debug\MatBal.vcxproj.AssemblyReference.cache
+C:\Users\bacar\Desktop\MatBal\MatBal\x64\Debug\MatBal.MyForm.resources
+C:\Users\bacar\Desktop\MatBal\MatBal\x64\Debug\MatBal.vcxproj.GenerateResource.cache
